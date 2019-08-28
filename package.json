@@ -1,0 +1,19 @@
+{
+  "name": "worktimer",
+  "version": "1.0.0",
+  "description": "Work Timer with Fake API",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agnieszka-Nadolnik/WorkTimer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agnieszka-Nadolnik/WorkTimer/issues"
+  },
+  "homepage": "https://github.com/Agnieszka-Nadolnik/WorkTimer#readme"
+}
